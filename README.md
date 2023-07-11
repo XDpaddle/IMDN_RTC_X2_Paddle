@@ -25,7 +25,7 @@ python test_IMDN_RTC_X2.py --test_hr_folder Test_Datasets/Set5/ --test_lr_folder
 
 If you find IMDN useful in your research, please consider citing:
 
-
+```
 @inproceedings{Hui-IMDN-2019,
   title={Lightweight Image Super-Resolution with Information Multi-distillation Network},
   author={Hui, Zheng and Gao, Xinbo and Yang, Yunchu and Wang, Xiumei},
