@@ -1,6 +1,6 @@
 # IMDN
 Lightweight Image Super-Resolution with Information Multi-distillation Network (ACM MM 2019)
-This repository contains an op-for-op Paddle reimplementation of [Lightweight Image Super-Resolution with Information Multi-distillation Network](https://arxiv.org/pdf/1909.11856v1.pdf).
+- This repository contains an op-for-op Paddle reimplementation of [Lightweight Image Super-Resolution with Information Multi-distillation Network](https://arxiv.org/pdf/1909.11856v1.pdf).
 It is modified from the original source code of Pytorch implementation(https://github.com/Zheng222/IMDN)
 
 [[arXiv]](https://arxiv.org/pdf/1909.11856v1.pdf)
