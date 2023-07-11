@@ -4,7 +4,7 @@
 It is modified from the original source code of Pytorch implementation(https://github.com/Zheng222/IMDN)
 
 [[arXiv]](https://arxiv.org/pdf/1909.11856v1.pdf)
-##Training
+## Training
 DIV2K dataset is used for training
 
 ## Testing
