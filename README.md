@@ -14,7 +14,7 @@ DIV2K dataset is used for training
 python test_IMDN_RTC_X2.py --test_hr_folder Test_Datasets/Set5/ --test_lr_folder Test_Datasets/Set5_LR/x2/ --output_folder results/Set5/x2 --upscale_factor 2
 
 
-
+```
 
 ## Results
 [百度网盘](https://pan.baidu.com/s/1DY0Npete3WsIoFbjmgXQlw)提取码: 8yqj or
@@ -25,7 +25,7 @@ python test_IMDN_RTC_X2.py --test_hr_folder Test_Datasets/Set5/ --test_lr_folder
 
 If you find IMDN useful in your research, please consider citing:
 
-```
+
 @inproceedings{Hui-IMDN-2019,
   title={Lightweight Image Super-Resolution with Information Multi-distillation Network},
   author={Hui, Zheng and Gao, Xinbo and Yang, Yunchu and Wang, Xiumei},
